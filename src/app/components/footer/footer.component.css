@@ -1,0 +1,25 @@
+.text-style {
+    font-weight: bold;
+    text-align: center;
+}
+
+.jumbotron {
+    /* background: url(/assets/header.jpeg) no-repeat center top; */
+    background: #363636e7;
+    background-size:cover;
+    border-radius: 0;
+    margin-bottom:10px;
+  }
+  .jumbotron h1 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color: #fff;
+    font-weight: bold;
+  }
+  .cntr{text-align: center}
+
+  .margin
+  {
+    margin-top: 20px
+  }

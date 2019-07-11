@@ -1,0 +1,18 @@
+<div class="container margin-tp">
+    <div class="row">
+        <div class="col-md-12">
+          <h1 [innerHTML]=title></h1>
+          <br>
+
+          <div [innerHTML]=content></div>
+
+          </div>
+
+          </div>
+
+
+  </div>
+
+  <div class="overlay"   [ngClass]="{'is-visible': showLoader,'is-invisible': !showLoader}">
+    <div id="loader" ></div>
+    </div>

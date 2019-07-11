@@ -1,0 +1,39 @@
+
+
+<!-- main content of website -->
+<div class="container margin-tp">
+
+<div class="row">
+<div class="col-sm-12">
+<h2>{{title}}</h2>
+
+<br>
+
+<div [innerHTML]=content></div>
+</div>
+</div>
+
+<div class="row margin-tp">
+<div class="col-sm-6">
+<img src="assets/website-development.png">
+</div>
+<div class="col-sm-6">
+<div [innerHTML]=firstPara></div>
+  </div>
+</div>
+
+<div class="row margin-tp">
+    
+    <div class="col-sm-6">
+        <div [innerHTML]=secondPara></div>
+      </div>
+
+      <div class="col-sm-6">
+          <img src="assets/icon-inbound-marketing.gif" style="float:right">
+          </div>
+    </div>
+</div>
+
+<div class="overlay"   [ngClass]="{'is-visible': showLoader,'is-invisible': !showLoader}">
+    <div id="loader" ></div>
+    </div>

@@ -1,0 +1,30 @@
+<div class="container margin-tp">
+
+<div class="row">
+<div class="col-md-6"><img src="assets/services/webiste-designing-development.jpg" height=400px width=400px></div>
+
+<div class="col-md-6">
+<div style="margin-top: 60px"><h1>Web Development</h1><br>
+
+  <div [innerHTML]=firstPara></div>
+
+</div>
+</div>
+
+<div class="row">
+  <div class="col-md-6" style="margin-top: 60px"><h1>SEO</h1>
+    <br>
+    <div [innerHTML]=secondPara></div>
+    
+</div>
+
+<div class="col-md-6">
+  <img src="assets/services/seo-services.png" height=400px width=400px style="float:right">
+</div>
+</div>
+
+  </div>
+
+  <div class="overlay"   [ngClass]="{'is-visible': showLoader,'is-invisible': !showLoader}">
+    <div id="loader" ></div>
+    </div>

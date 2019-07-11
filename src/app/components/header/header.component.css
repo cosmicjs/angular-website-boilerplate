@@ -1,0 +1,41 @@
+.jumbotron {
+    /* background: url(/assets/header.jpeg) no-repeat center top; */
+    background: #363636e7;
+    background-size:cover;
+    border-radius: 0;
+    margin-bottom:0;
+  }
+  .jumbotron h1 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color: #fff;
+    font-weight: bold;
+  }
+
+   .cntr{text-align: center}
+
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li span {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li span:hover {
+    background-color: #111111;
+    cursor: pointer
+  }
