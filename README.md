@@ -17,7 +17,7 @@ cd angular-boilerplate
 npm install
 npm run build
 npm start
-visit: http://localhost:3000/
+visit: http://localhost:5000/
 ```
 
 ## Development Mode
