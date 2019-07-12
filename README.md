@@ -3,7 +3,7 @@
 # Angular Boilerplate
 Angular Boilerplate website powered by Angular 7 and [Cosmic JS](https://cosmicjs.com).
 
-### [View the demo](https://angular-boilerplate.herokuapp.com/)
+### [View the demo](https://cosmicjs.com/apps/angular-website-boilerplate)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
@@ -12,8 +12,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Running in Production Mode:
 
 ```
-git clone https://github.com/a9kitkumar/angular-boilerplate.git
-cd angular-boilerplate
+git clone https://github.com/cosmicjs/angular-website-boilerplate
+cd angular-website-boilerplate
 npm install
 npm run build
 npm start
