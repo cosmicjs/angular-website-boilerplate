@@ -1,4 +1,4 @@
-<img src="https://cosmic-s3.imgix.net/47db3830-a40d-11e9-91dc-7fc430db2f64-Screenshot-from-2019-07-12-00-22-01.png" width="1000" />
+<img src="https://cosmic-s3.imgix.net/d5fe44a0-a4d9-11e9-8b5b-d776067a01eb-angular-website-boilerplate.png?w=1200" width="1000" />
 
 # Angular Boilerplate
 Angular Boilerplate website powered by Angular 7 and [Cosmic JS](https://cosmicjs.com).
